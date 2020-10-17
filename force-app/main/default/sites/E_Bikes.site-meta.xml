@@ -25,9 +25,8 @@
     <requireInsecurePortalAccess>false</requireInsecurePortalAccess>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
     <siteAdmin>techonomics@bikeshop.com</siteAdmin>
-    <siteGuestRecordDefaultOwner
-    >techonomics@bikeshop.com</siteGuestRecordDefaultOwner>
+    <siteGuestRecordDefaultOwner>techonomics@bikeshop.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>bikeshop-techonomics-developer-edition</subdomain>
+    <subdomain>bikeshop-techonomics-developer-edition.na174.force.com</subdomain>
     <urlPathPrefix>ebikes</urlPathPrefix>
 </CustomSite>
